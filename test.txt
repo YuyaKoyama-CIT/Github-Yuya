@@ -1,1 +1,5 @@
 Hallo New World!
+
+git add .
+git commit -m "commit"
+git push
