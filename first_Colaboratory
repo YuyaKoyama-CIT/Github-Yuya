@@ -1,0 +1,137 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNqfMWurWRiD/CV+/MVt+uT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/YuyaKoyama-CIT/Github-Yuya/blob/master/first_Colaboratory\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 5,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "fQidFz9BDsbY",
+        "outputId": "4b7b5e7a-adcb-48d4-ab72-09490ffed612"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "151800"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 5
+        }
+      ],
+      "source": [
+        "2024*5*15"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x=2\n",
+        "x+1"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9M92B13dGWfG",
+        "outputId": "0b864749-c132-4da3-ac0e-9ae20f83e5e4"
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "3"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x+x"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Pp2bZ7_1GrKt",
+        "outputId": "24813cf1-dad4-47d3-8076-1efe6618a2e0"
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "4"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "テストメモ"
+      ],
+      "metadata": {
+        "id": "1Xi3vg33HCgV"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#テスト\n",
+        "##サブタイトル\n"
+      ],
+      "metadata": {
+        "id": "qLgmhIJcHdbA"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "J0rtU7BJHHX-"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
